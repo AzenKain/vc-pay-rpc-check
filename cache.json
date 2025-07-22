@@ -1,0 +1,1646 @@
+{
+  "ethereum": [],
+  "namada": [
+    {
+      "chain": "namada",
+      "url": "https://rpc.namada.validatus.com",
+      "latency": 710,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada.itudou.xyz",
+      "latency": 718,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada-main.stakesystems.io",
+      "latency": 729,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada.rpc.decentrio.ventures",
+      "latency": 746,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://rpc.papadritta.com",
+      "latency": 757,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada-mainnet-rpc.itrocket.net",
+      "latency": 814,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://rpc-namada.5elementsnodes.com",
+      "latency": 835,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada.loserboy.xyz",
+      "latency": 899,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada-rpc.mandragora.io",
+      "latency": 928,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada-rpc.zenode.app",
+      "latency": 945,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://rpc.namada.tududes.com",
+      "latency": 953,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada-mainnet.rpc.l0vd.com:443",
+      "latency": 1047,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada-rpc.synergynodes.com",
+      "latency": 1110,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://rpc.namadascan.io",
+      "latency": 1155,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namada-rpc.sproutstake.space",
+      "latency": 1168,
+      "status": "OK"
+    },
+    {
+      "chain": "namada",
+      "url": "https://namadam.powerstaking.tech",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 502"
+    },
+    {
+      "chain": "namada",
+      "url": "https://rpc.namada.stakepool.dev.br",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    }
+  ],
+  "rootstock": [],
+  "solana": [],
+  "ton": [],
+  "tron": [],
+  "aaronetwork": [
+    {
+      "chain": "aaronetwork",
+      "url": "https://mainnet-rpc.aaronetwork.xyz",
+      "latency": 510,
+      "status": "OK"
+    },
+    {
+      "chain": "aaronetwork",
+      "url": "https://rpc-aaronetwork.sychonix.com/",
+      "latency": 693,
+      "status": "OK"
+    },
+    {
+      "chain": "aaronetwork",
+      "url": "https://rpc-aaronetwork.vinjan.xyz/",
+      "latency": 716,
+      "status": "OK"
+    },
+    {
+      "chain": "aaronetwork",
+      "url": "https://aaronetwork_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1083,
+      "status": "OK"
+    },
+    {
+      "chain": "aaronetwork",
+      "url": "https://rpc.aaronetwork.indonode.net",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    }
+  ],
+  "acrechain": [
+    {
+      "chain": "acrechain",
+      "url": "https://rpc-acre.synergynodes.com",
+      "latency": 1057,
+      "status": "OK"
+    },
+    {
+      "chain": "acrechain",
+      "url": "https://acred-rpc.staketab.org:443",
+      "latency": 1300,
+      "status": "OK"
+    },
+    {
+      "chain": "acrechain",
+      "url": "https://acrechain-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    },
+    {
+      "chain": "acrechain",
+      "url": "https://rpc.acre.tcnetwork.io",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "acrechain",
+      "url": "https://mainnet-acre-rpc.konsortech.xyz",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ],
+  "agoric": [
+    {
+      "chain": "agoric",
+      "url": "https://agoric-rpc.polkachu.com",
+      "latency": 612,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://rpc.agoric.stakewith.us",
+      "latency": 706,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://agoric-rpc.w3coins.io",
+      "latency": 757,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://rpc.agoric.bronbro.io:443",
+      "latency": 774,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://main.rpc.agoric.net:443",
+      "latency": 815,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://rpc-agoric-01.stakeflow.io",
+      "latency": 850,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://agoric-rpc.stakeandrelax.net",
+      "latency": 868,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://agoric.rpc.kjnodes.com",
+      "latency": 884,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://agoric-rpc.stakeangle.com",
+      "latency": 1202,
+      "status": "OK"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://agoric-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://agoric-rpc.0base.dev",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "agoric",
+      "url": "https://rpc-agoric-ia.cosmosia.notional.ventures",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    }
+  ],
+  "aioz": [
+    {
+      "chain": "aioz",
+      "url": "https://rpc-dataseed.aioz.network:443",
+      "latency": 382,
+      "status": "OK"
+    }
+  ],
+  "akash": [
+    {
+      "chain": "akash",
+      "url": "https://akash-rpc.polkachu.com",
+      "latency": 562,
+      "status": "OK"
+    },
+    {
+      "chain": "akash",
+      "url": "https://akash-rpc.w3coins.io",
+      "latency": 606,
+      "status": "OK"
+    },
+    {
+      "chain": "akash",
+      "url": "https://akash-mainnet-rpc.cosmonautstakes.com:443",
+      "latency": 697,
+      "status": "OK"
+    },
+    {
+      "chain": "akash",
+      "url": "https://akash-rpc.publicnode.com:443",
+      "latency": 784,
+      "status": "OK"
+    },
+    {
+      "chain": "akash",
+      "url": "https://rpc-akash.ecostake.com:443",
+      "latency": 880,
+      "status": "OK"
+    },
+    {
+      "chain": "akash",
+      "url": "https://akash.rpc.arcturian.tech/",
+      "latency": 1180,
+      "status": "OK"
+    },
+    {
+      "chain": "akash",
+      "url": "https://akash-rpc.kleomedes.network",
+      "latency": 1364,
+      "status": "OK"
+    }
+  ],
+  "allora": [
+    {
+      "chain": "allora",
+      "url": "https://allora-rpc.mainnet.allora.network",
+      "latency": 975,
+      "status": "OK"
+    }
+  ],
+  "althea": [
+    {
+      "chain": "althea",
+      "url": "https://rpc.lavenderfive.com:443/althea",
+      "latency": 725,
+      "status": "OK"
+    },
+    {
+      "chain": "althea",
+      "url": "https://althea.rpc.m.stavr.tech",
+      "latency": 755,
+      "status": "OK"
+    },
+    {
+      "chain": "althea",
+      "url": "https://nodes.chandrastation.com/rpc/althea/",
+      "latency": 839,
+      "status": "OK"
+    },
+    {
+      "chain": "althea",
+      "url": "https://althea_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1078,
+      "status": "OK"
+    }
+  ],
+  "andromeda": [
+    {
+      "chain": "andromeda",
+      "url": "https://rpc.lavenderfive.com:443/andromeda",
+      "latency": 241,
+      "status": "OK"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andromeda.rpc.liveraven.net",
+      "latency": 710,
+      "status": "OK"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andro.rpc.m.stavr.tech/",
+      "latency": 761,
+      "status": "OK"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andromeda-rpc.stakerhouse.com:443",
+      "latency": 1387,
+      "status": "OK"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://rpc.andromeda-1.andromeda.aviaone.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andromeda.rpc.kjnodes.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 503"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andromeda.rpc.nodex.one",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 503"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andromeda-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andromeda-rpc.highstakes.ch",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andromeda-rpc.genznodes.dev",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "andromeda",
+      "url": "https://andromeda.rpc.kjnodes.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 503"
+    },
+    {
+      "chain": "andromeda",
+      "url": "andromeda-rpc.noders.services",
+      "latency": null,
+      "status": "FAIL",
+      "message": "\"andromeda-rpc.noders.services/status\" cannot be parsed as a URL."
+    }
+  ],
+  "archway": [
+    {
+      "chain": "archway",
+      "url": "https://rpc-archway.mzonder.com",
+      "latency": 185,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc.lavenderfive.com:443/archway",
+      "latency": 276,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc.mainnet.archway.io",
+      "latency": 597,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-rpc.0base.dev",
+      "latency": 769,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc-1.archway.nodes.guru",
+      "latency": 838,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway.rpc.kjnodes.com",
+      "latency": 857,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc-archway.mzonder.com",
+      "latency": 919,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc.archway.stakeup.tech",
+      "latency": 951,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc-archway.theamsolutions.info",
+      "latency": 1102,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc-archway.luckyfriday.io/",
+      "latency": 1787,
+      "status": "OK"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-mainnet-archive.allthatnode.com:26657",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "archway",
+      "url": "https://m-archway.rpc.utsa.tech",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway.rpc.silknodes.io/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc-archway.cryptech.com.ua",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-rpc.w3coins.io",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 502"
+    },
+    {
+      "chain": "archway",
+      "url": "https://m-archway.rpc.utsa.tech",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Was there a typo in the url or port?"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc-archway.mms.team",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc.archway.lgns.net",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-rpc.stake-town.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-mainnet.rpc.l0vd.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 502"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-rpc.openbitlab.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "ERR_TLS_CERT_ALTNAME_INVALID fetching \"https://archway-rpc.openbitlab.com/status\". For more information, pass `verbose: true` in the second argument to fetch()"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc-archway.mainnet.validatrium.club",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-rpc.stakeandrelax.net",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 502"
+    },
+    {
+      "chain": "archway",
+      "url": "https://rpc.archway.bronbro.io:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-rpc.noders.services",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "archway",
+      "url": "https://archway-rpc.chainroot.io",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 521"
+    }
+  ],
+  "arkeo": [
+    {
+      "chain": "arkeo",
+      "url": "https://rpc-seed.arkeo.network",
+      "latency": 705,
+      "status": "OK"
+    },
+    {
+      "chain": "arkeo",
+      "url": "https://arkeo_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1085,
+      "status": "OK"
+    },
+    {
+      "chain": "arkeo",
+      "url": "https://rpc.arkeo.roomit.xyz",
+      "latency": 1211,
+      "status": "OK"
+    },
+    {
+      "chain": "arkeo",
+      "url": "https://rpc.arkeo.nodestake.org",
+      "latency": 2006,
+      "status": "OK"
+    },
+    {
+      "chain": "arkeo",
+      "url": "https://arkeo-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    }
+  ],
+  "arkh": [
+    {
+      "chain": "arkh",
+      "url": "https://arkhadian-mainnet-rpc.bonynode.online/",
+      "latency": 869,
+      "status": "OK"
+    },
+    {
+      "chain": "arkh",
+      "url": "http://arkh.rpc.wellnode.net:26657/",
+      "latency": 1203,
+      "status": "OK"
+    }
+  ],
+  "assetmantle": [
+    {
+      "chain": "assetmantle",
+      "url": "https://assetmantle-rpc.polkachu.com",
+      "latency": 565,
+      "status": "OK"
+    },
+    {
+      "chain": "assetmantle",
+      "url": "https://assetmantle-rpc.publicnode.com:443",
+      "latency": 784,
+      "status": "OK"
+    },
+    {
+      "chain": "assetmantle",
+      "url": "https://assetmantle-rpc.stakerhouse.com",
+      "latency": 1095,
+      "status": "OK"
+    },
+    {
+      "chain": "assetmantle",
+      "url": "https://rpc.assetmantle.one",
+      "latency": 1714,
+      "status": "OK"
+    },
+    {
+      "chain": "assetmantle",
+      "url": "https://rpc-assetmantle-ia.cosmosia.notional.ventures/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "assetmantle",
+      "url": "https://rpc.mantle.paranorm.pro:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ],
+  "atomone": [
+    {
+      "chain": "atomone",
+      "url": "https://rpc-atomone.nodeist.net",
+      "latency": 662,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone-mainnet-rpc.shazoes.xyz",
+      "latency": 662,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://rpc.atomone-1.atomone.aviaone.com:443",
+      "latency": 678,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://rpc-atone.vinjan.xyz",
+      "latency": 725,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone-rpc.publicnode.com:443",
+      "latency": 729,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone.rpc.m.stavr.tech:443",
+      "latency": 738,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://rpc-atomone.ecostake.com",
+      "latency": 772,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://m-atomone.rpc.utsa.tech/",
+      "latency": 776,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone-mainnet-rpc.itrocket.net:443",
+      "latency": 786,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://rpc.atomone.roomit.xyz",
+      "latency": 817,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://community.nuxian-node.ch:6797/atomone/trpc",
+      "latency": 831,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://rpc.atomone.citizenweb3.com:443",
+      "latency": 841,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone-rpc.allinbits.com:443",
+      "latency": 1023,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1049,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://rpc-atomone-1.cros-nest.com:443",
+      "latency": 1093,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone-rpc.ibs.team:443",
+      "latency": 1112,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone.rpc.nodeshub.online:443",
+      "latency": 1199,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone-mainnet-rpc.bonynode.online",
+      "latency": 1210,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://rpc.atomone.chaintools.tech",
+      "latency": 1425,
+      "status": "OK"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone-rpc.cogwheel.zone",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "atomone",
+      "url": "https://atomone-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    }
+  ],
+  "aura": [
+    {
+      "chain": "aura",
+      "url": "https://rpc.aura.network/",
+      "latency": 229,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://rpc.lavenderfive.com:443/aura",
+      "latency": 239,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://m-aura.rpc.utsa.tech",
+      "latency": 771,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://aura-rpc.stake-town.com",
+      "latency": 820,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://aura-rpc.noders.services",
+      "latency": 877,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://mainnet-aura-rpc.konsortech.xyz",
+      "latency": 925,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://rpc.aura.silentvalidator.com",
+      "latency": 992,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://aura-rpc.staketab.org:443",
+      "latency": 1249,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "http://aura.rpc.m.stavr.tech:11047",
+      "latency": 1558,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://aura.rpc.srv.stakr.space",
+      "latency": 1653,
+      "status": "OK"
+    },
+    {
+      "chain": "aura",
+      "url": "https://aura-rpc.ramuchi.tech",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "aura",
+      "url": "https://aura.rpc.kjnodes.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 503"
+    },
+    {
+      "chain": "aura",
+      "url": "https://rpc-aura.mms.team",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "aura",
+      "url": "https://aura-rpc.palamar.io",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "aura",
+      "url": "https://aura-rpc.highstakes.ch",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 502"
+    }
+  ],
+  "axelar": [
+    {
+      "chain": "axelar",
+      "url": "https://rpc.axelar.bh.rocks",
+      "latency": 665,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.polkachu.com",
+      "latency": 713,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://rpc-1.axelar.nodes.guru:443",
+      "latency": 733,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.publicnode.com:443",
+      "latency": 736,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://rpc-axelar.imperator.co:443",
+      "latency": 743,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.pops.one:443",
+      "latency": 768,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://rpc-axelar-01.stakeflow.io",
+      "latency": 843,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.staketab.org:443",
+      "latency": 877,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.qubelabs.io:443",
+      "latency": 883,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.quickapi.com:443",
+      "latency": 911,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar.rpc.stakin-nodes.com",
+      "latency": 935,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.rockrpc.net/",
+      "latency": 973,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar.rpc.quantnode.xyz/",
+      "latency": 1105,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.ibs.team",
+      "latency": 1113,
+      "status": "OK"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://rpc-axelar.cosmos-spaces.cloud",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://rpc-axelar-ia.cosmosia.notional.ventures/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.validatrium.club",
+      "latency": null,
+      "status": "FAIL",
+      "message": "unable to verify the first certificate"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://rpc-axelar.whispernode.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar-rpc.w3coins.io",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 502"
+    },
+    {
+      "chain": "axelar",
+      "url": "https://axelar.drpc.org",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    }
+  ],
+  "axone": [
+    {
+      "chain": "axone",
+      "url": "https://axone.rpc.bccnodes.com",
+      "latency": 809,
+      "status": "OK"
+    },
+    {
+      "chain": "axone",
+      "url": "https://rpc.axone.nodestake.org",
+      "latency": 1010,
+      "status": "OK"
+    },
+    {
+      "chain": "axone",
+      "url": "https://axone-rpc.highstakes.ch",
+      "latency": 1239,
+      "status": "OK"
+    },
+    {
+      "chain": "axone",
+      "url": "https://rpc.axone.cumulo.com.es",
+      "latency": 1495,
+      "status": "OK"
+    }
+  ],
+  "babylon": [
+    {
+      "chain": "babylon",
+      "url": "https://babylon-rpc.polkachu.com",
+      "latency": 521,
+      "status": "OK"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://babylon-archive-rpc.polkachu.com",
+      "latency": 712,
+      "status": "OK"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://babylon-mainnet-rpc.shazoes.xyz",
+      "latency": 729,
+      "status": "OK"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://community.nuxian-node.ch:6797/babylon/trpc",
+      "latency": 772,
+      "status": "OK"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://babylon-archive.nodes.guru/rpc",
+      "latency": 1098,
+      "status": "OK"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://babylon-rpc.publicnode.com:443",
+      "latency": 1196,
+      "status": "OK"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://babylon.nodes.guru/rpc",
+      "latency": 1219,
+      "status": "OK"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://babylon-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://babylon-mainnet-rpc.shazoe.xyz",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "babylon",
+      "url": "https://babylon.rpc.nodeshub.online:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ],
+  "bandchain": [
+    {
+      "chain": "bandchain",
+      "url": "http://rpc.laozi1.bandchain.org:80",
+      "latency": 508,
+      "status": "OK"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://band-rpc.w3coins.io",
+      "latency": 614,
+      "status": "OK"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://band-rpc.noders.services",
+      "latency": 755,
+      "status": "OK"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://public.stakewolle.com/cosmos/bandchain/rpc",
+      "latency": 813,
+      "status": "OK"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://rpc-band-01.stakeflow.io",
+      "latency": 943,
+      "status": "OK"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://band-rpc.ibs.team/",
+      "latency": 1106,
+      "status": "OK"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://bandprotocol-rpc.highstakes.ch",
+      "latency": 1190,
+      "status": "OK"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://rpc-bandchain-ia.cosmosia.notional.ventures/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://bandchain-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://band.rpc.m.stavr.tech:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://rpc-band.cosmos-spaces.cloud",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://rpc.band.bronbro.io/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "bandchain",
+      "url": "https://rpc.band.roomit.xyz/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ],
+  "beezee": [
+    {
+      "chain": "beezee",
+      "url": "https://rpc-1.getbze.com",
+      "latency": 714,
+      "status": "OK"
+    },
+    {
+      "chain": "beezee",
+      "url": "https://rpc-2.getbze.com",
+      "latency": 738,
+      "status": "OK"
+    },
+    {
+      "chain": "beezee",
+      "url": "https://rpc.getbze.com",
+      "latency": 799,
+      "status": "OK"
+    },
+    {
+      "chain": "beezee",
+      "url": "https://beezee_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1064,
+      "status": "OK"
+    }
+  ],
+  "bitbadges": [
+    {
+      "chain": "bitbadges",
+      "url": "http://134.122.12.165:26657",
+      "latency": 519,
+      "status": "OK"
+    },
+    {
+      "chain": "bitbadges",
+      "url": "https://bitbadges_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1055,
+      "status": "OK"
+    }
+  ],
+  "bitcanna": [
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna-rpc.polkachu.com",
+      "latency": 590,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna-rpc.bluestake.net",
+      "latency": 605,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna.rpc.m.stavr.tech/",
+      "latency": 772,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna-rpc.kalia.network/",
+      "latency": 810,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://mainnet-bitcanna-rpc.konsortech.xyz/",
+      "latency": 841,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bcna.rpc.arcturian.tech/",
+      "latency": 880,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna-mainnet.rpc.l0vd.com/",
+      "latency": 968,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1186,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna.rpc.m.anode.team/",
+      "latency": 2853,
+      "status": "OK"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc.bitcanna.io/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc.bitcanna.sgtstake.com/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc-bcna.kjinc.io/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna.rpc.kjnodes.com/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 503"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna-rpc.genznodes.dev/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc.bitcanna-1.bitcanna.aviaone.com/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc.bitcanna-mainnet.hexnodes.one/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc.bitcanna.citizenweb3.com/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna.nodejumper.io:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc.bitcanna.indonode.net/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc-bitcanna.mms.team:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna-rpc.validatornode.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://bitcanna.rpc.nodex.one",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 503"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc.bitcanna.bh.rocks",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "bitcanna",
+      "url": "https://rpc-bitcanna.cryptech.com.ua",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ],
+  "bitsong": [
+    {
+      "chain": "bitsong",
+      "url": "https://rpc.bitsong.mathnodes.com",
+      "latency": 473,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://bitsong-rpc.polkachu.com:443",
+      "latency": 601,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://bitsong.tdrsys.com:2053",
+      "latency": 642,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://bitsong-rpc.bluestake.net:443",
+      "latency": 727,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://bitsong.rpc.m.stavr.tech:443",
+      "latency": 761,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://bitsong-rpc.tothemars.network:443",
+      "latency": 805,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://rpc.bitsong.quokkastake.io",
+      "latency": 812,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://rpc-bitsong.architectnodes.com",
+      "latency": 816,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://rpc.explorebitsong.com",
+      "latency": 842,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://bitsong-rpc.panthea.eu",
+      "latency": 861,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://rpc.bitsong.chaintools.tech/",
+      "latency": 1395,
+      "status": "OK"
+    },
+    {
+      "chain": "bitsong",
+      "url": "https://bitsong-rpc.noders.services",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ],
+  "blockx": [
+    {
+      "chain": "blockx",
+      "url": "https://blockx_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1062,
+      "status": "OK"
+    },
+    {
+      "chain": "blockx",
+      "url": "https://rpc-blockx.nodeist.net",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    }
+  ],
+  "bluechip": [],
+  "bluzelle": [
+    {
+      "chain": "bluzelle",
+      "url": "https://a.client.sentry.net.bluzelle.com:26657",
+      "latency": 391,
+      "status": "OK"
+    },
+    {
+      "chain": "bluzelle",
+      "url": "https://b.client.sentry.net.bluzelle.com:26657",
+      "latency": 921,
+      "status": "OK"
+    },
+    {
+      "chain": "bluzelle",
+      "url": "https://bluzelle_mainnet_rpc.chain.whenmoonwhenlambo.money",
+      "latency": 1059,
+      "status": "OK"
+    },
+    {
+      "chain": "bluzelle",
+      "url": "https://c.client.sentry.net.bluzelle.com:26657",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ],
+  "bostrom": [
+    {
+      "chain": "bostrom",
+      "url": "https://rpc.cyber.bronbro.io:443",
+      "latency": 805,
+      "status": "OK"
+    },
+    {
+      "chain": "bostrom",
+      "url": "https://rpc.bostrom.cybernode.ai",
+      "latency": 989,
+      "status": "OK"
+    },
+    {
+      "chain": "bostrom",
+      "url": "https://rpc-cyber-ia.cosmosia.notional.ventures/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    }
+  ],
+  "bouachain": [
+    {
+      "chain": "bouachain",
+      "url": "https://rpc.bouachain.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "timeout of 5000ms exceeded"
+    }
+  ],
+  "buycex": [
+    {
+      "chain": "buycex",
+      "url": "https://endpoint.buycex.net",
+      "latency": 1004,
+      "status": "OK"
+    }
+  ],
+  "canto": [
+    {
+      "chain": "canto",
+      "url": "https://canto-rpc.polkachu.com",
+      "latency": 608,
+      "status": "OK"
+    },
+    {
+      "chain": "canto",
+      "url": "https://canto.gravitychain.io:26657",
+      "latency": 1176,
+      "status": "OK"
+    },
+    {
+      "chain": "canto",
+      "url": "https://rpc.canto.silentvalidator.com/",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    },
+    {
+      "chain": "canto",
+      "url": "https://canto-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    },
+    {
+      "chain": "canto",
+      "url": "https://rpc-canto.kewrnode.com",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ],
+  "carbon": [
+    {
+      "chain": "carbon",
+      "url": "https://tm-api.carbon.network",
+      "latency": 151,
+      "status": "OK"
+    },
+    {
+      "chain": "carbon",
+      "url": "https://rpc.lavenderfive.com:443/carbon",
+      "latency": 240,
+      "status": "OK"
+    },
+    {
+      "chain": "carbon",
+      "url": "https://carbon-mainnet-rpc.autostake.com:443",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Request failed with status code 404"
+    },
+    {
+      "chain": "carbon",
+      "url": "https://rpc.carbon.blockhunters.org",
+      "latency": null,
+      "status": "FAIL",
+      "message": "Unable to connect. Is the computer able to access the url?"
+    }
+  ]
+}

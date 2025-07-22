@@ -1,0 +1,15 @@
+services:
+  rpc-checker-vc-pay:
+    build: .
+    container_name: rpc-checker-vc-pay
+    ports:
+      - "3455:3344"
+    volumes:
+      - ./cache.json:/app/cache.json
+    restart: unless-stopped
+    networks:
+      - vc-pay-net
+
+networks:
+  vc-pay-net:
+    driver: bridge
