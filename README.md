@@ -1,4 +1,3 @@
----
 
 # 🚀 rpc-check
 
@@ -65,5 +64,3 @@ This will start an Express server (default port: `3344`) with a `/rpc-check` POS
 * Express — For routing and JSON handling
 * Axios — For sending JSON-RPC requests
 * CORS — Enabled for all origins
-
----
