@@ -1,5 +1,3 @@
-Dưới đây là phiên bản đã được chỉnh sửa và hoàn chỉnh hơn của README:
-
 ---
 
 # 🚀 rpc-check
@@ -69,5 +67,3 @@ This will start an Express server (default port: `3344`) with a `/rpc-check` POS
 * CORS — Enabled for all origins
 
 ---
-
-Let me know if bạn cần thêm hướng dẫn Docker hoặc ví dụ cURL test nhé.
