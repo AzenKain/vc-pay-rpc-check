@@ -4,8 +4,6 @@ services:
     container_name: rpc-checker-vc-pay
     ports:
       - "3455:3344"
-    volumes:
-      - ./cache.json:/app/cache.json
     restart: unless-stopped
     networks:
       - vc-pay-net
